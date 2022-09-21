@@ -16,7 +16,9 @@ pip3 install -r requirements.txt
 python3 check.py -h
 ```
 ## Command
-- python3 check.py -r site.txt -s savefile.txt -t 20
+```bash
+python3 check.py -r site.txt -s savefile.txt -t 20
+```
 # Feature
 - Delete Duplicate List Site
 - Fast Use Thread
