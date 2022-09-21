@@ -1,7 +1,8 @@
 # XMLRPC Results Check Login
-Mass check of XMLRPC Bruteforce login results.
-
 ![alt text](https://github.com/wannazid/XMLRPC-Results-Check-Login/blob/main/IMG_20220921_171959.jpg)
+
+# Description
+Mass check of XMLRPC Bruteforce login results, made of python3 programming language
 # How To Install
 ```bash
 git clone https://github.com/wannazid/XMLRPC-Results-Check-Login
@@ -17,7 +18,7 @@ python3 check.py -h
 ```
 ## Command
 ```bash
-python3 check.py -r site.txt -s savefile.txt -t 20
+python3 check.py -r site.txt -s savefile.txt -t thread
 ```
 # Feature
 - Delete Duplicate List Site
