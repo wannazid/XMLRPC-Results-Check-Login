@@ -21,10 +21,10 @@ python3 check.py -h
 python3 check.py -r site.txt -s savefile.txt -t thread
 ```
 # Feature
-- Delete Duplicate List Site
+- Auto Delete Duplicate List Site
 - Fast Use Thread
 - Save File In New Folder: Succes Login & Failed Login
 
 # Contact Me
 - wa.me/6281328303820 (WA)
-- t.me/w4nfivezero (Telegram)
+- t.me/wanfivezero (Telegram)
