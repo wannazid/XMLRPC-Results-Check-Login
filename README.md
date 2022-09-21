@@ -2,7 +2,7 @@
 ![alt text](https://github.com/wannazid/XMLRPC-Results-Check-Login/blob/main/IMG_20220921_171959.jpg)
 
 # Description
-Mass check of XMLRPC Bruteforce login results, made of python3 programming language, this free not fot sale
+Mass check of XMLRPC Bruteforce login results, made of python3 programming language, this free not for sale
 # How To Install
 ```bash
 git clone https://github.com/wannazid/XMLRPC-Results-Check-Login
